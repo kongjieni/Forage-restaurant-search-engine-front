@@ -1,0 +1,1 @@
+Forage - A restaurant search engine based on the Greater Denver Area. Built with React and Ruby on Rails.

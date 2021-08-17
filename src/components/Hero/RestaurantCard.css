@@ -1,0 +1,36 @@
+.restaurant-card {
+    margin: 2.5rem;
+    line-height: 2;
+    width: 300px;
+}
+
+.restaurant-img {
+    height: 300px;
+    min-width: 300px;
+    max-width: 100%;
+    box-shadow: 5px 5px #fdc100;
+    border-radius: 4px;
+}
+
+.restaurant-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    text-align: center;
+}
+
+.restaurant-name {
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.general-info {
+    margin-bottom: 1rem;
+}
+
+.restaurant-price {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
